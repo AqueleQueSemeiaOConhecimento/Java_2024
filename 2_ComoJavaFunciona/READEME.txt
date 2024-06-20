@@ -1,0 +1,34 @@
+"Escreva uma vez, code em qualquer lugar"
+
+Existem muitos sistemas operacionais:
+
+    Quando desenvolvemos um software temos que fazer rodar legal em varios 
+    sistemas operacionais.
+
+    Porque java é bom?
+        Um código que roda em varios sistemas operacionais, java fala em windows,
+        linux e macos, ou seja, o cara ta forte.
+
+
+Exemplo com java:
+
+            javac  
+  App1.java ---- app1.class
+            JDK    |
+
+|                             |
+|    Java Virtual Machine     |
+|                             |
+                         
+windows     linux       macos 
+
+
+OBS: a JVM é espefica para cada sistema operacional!
+
+
+
+Exemplo sem java:
+
+
+   |           |          |
+windows     linux       macos 
