@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "8_java/src",
+        "8_OrganizandoOCódigoEmPacotes/projetos/src",
+        "5_ExecutandoCompilaçãoManualmente",
+        "2_ComoJavaFunciona/5_ExecutandoCompilaçãoManualmente",
+        "8_OrganizandoOCódigoEmPacotes"
+    ]
+}
