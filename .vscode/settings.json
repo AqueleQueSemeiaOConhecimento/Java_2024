@@ -5,5 +5,6 @@
         "5_ExecutandoCompilaçãoManualmente",
         "2_ComoJavaFunciona/5_ExecutandoCompilaçãoManualmente",
         "8_OrganizandoOCódigoEmPacotes"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
